@@ -1,4 +1,4 @@
-![banner-mobile](https://user-images.githubusercontent.com/112043767/211700312-f813576c-021c-4f95-bc31-246c9148a476.png)
+![banner-mobile](https://github.com/icedpodo/Modeul/blob/dev/FrontEnd_Modeul/public/images/member/banner2.png?raw=true)
 # 우리의 연결고리, ZPOP 🔗
 > 전국 어디에서나, 누구나 간편하게 소모임을 할 수 있도록 ✨
 
